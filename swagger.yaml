@@ -39,6 +39,8 @@ paths:
                     votes: 512
                   - choice: Ruby
                     votes: 256
+                  - choice: Java
+                    votes: 128
     post:
       description: >-
         You may create your own question using this action. It takes a JSON
@@ -68,6 +70,8 @@ paths:
                   - choice: Objective-C
                     votes: 0
                   - choice: Ruby
+                    votes: 0
+                  - choice: Java
                     votes: 0
 definitions:
   Question:
