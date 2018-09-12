@@ -1,6 +1,6 @@
 swagger: '2.0'
 info:
-  version: '1.0'
+  version: '1.1'
   title: "rede-natura-atg-api-test"
   description: Polls is a simple API allowing consumers to view polls and vote in them.
   license:
